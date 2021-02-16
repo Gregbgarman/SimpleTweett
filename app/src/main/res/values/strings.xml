@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SimpleTweet</string>
+    <string name="app_name">TWITTER</string>
     <string name="login_label">Log in here</string>
     <string name="intent_scheme">oauth</string>
     <string name="intent_host">cprest</string>
+    <string name="button">Button!!!</string>
+    <string name="what_is_up">What is up?</string>
+    <string name="tweet">Tweet</string>
 
 </resources>
