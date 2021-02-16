@@ -35,7 +35,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Gregbgarman/SimpleTweett/blob/master/app/twitterwalkthrough3.gif' />
+<img src='https://github.com/Gregbgarman/SimpleTweett/blob/master/twitterwalkthrough3.gif' />
+
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
